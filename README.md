@@ -1,5 +1,3 @@
-## Bok
-
 Privacy Policy
 
 Effective Date: 11.02.24

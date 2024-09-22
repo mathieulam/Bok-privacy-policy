@@ -13,13 +13,15 @@ Bok is designed to store all user data locally on your device. This means that t
 Your daily reading goal: The target amount of minutes you set for reading each day.
 Your streak: The number of consecutive days you have met your daily reading goal.
 Your sessions: Records of each reading session, including the date and duration of time spent reading.
+
 2. Purpose of Data Collection
 
 The data collected by Bok is solely for the purpose of enabling you to track your progress towards your reading goals. It allows you to:
 
-Monitor and adjust your daily reading goals.
-View your current streak and work to maintain or increase it.
-Review past reading sessions to understand your reading habits and patterns.
+- Monitor and adjust your daily reading goals.
+- View your current streak and work to maintain or increase it.
+- Review past reading sessions to understand your reading habits and patterns.
+
 3. Data Storage and Security
 
 All data collected by Bok is stored locally on your device. We implement a variety of security measures to maintain the safety of your personal information stored within the app. However, as the data is stored locally, the security of this information also depends on the security measures of your device.
